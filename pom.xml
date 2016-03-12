@@ -18,8 +18,8 @@
         <!-- Jar Versions -->
         <sesame.version>2.7.13</sesame.version>
         <servlet-api.version>2.5</servlet-api.version>
-        <neo4j.version>2.1.5</neo4j.version>
-        <blueprints.version>2.5.0</blueprints.version>
+        <neo4j.version>2.1.8</neo4j.version>
+        <blueprints.version>2.6.0</blueprints.version>
         <jersey.server.version>1.9</jersey.server.version>
         <license-text.header>GPL-3-header.txt</license-text.header>
         <github.global.server>github</github.global.server>
